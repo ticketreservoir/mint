@@ -321,7 +321,7 @@ export const items = [
     image: Recovery,
   },
   {
-    text: "Bridge maintenance",
+    text: "Bridge",
     image: Recovery,
   },
   {
