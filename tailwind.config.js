@@ -17,5 +17,5 @@ export default {
     },
   },
   // eslint-disable-next-line no-undef
-  plugins: [require("tailwind-scrollbar"), require("daisyui")],
+  plugins: [import("tailwind-scrollbar"), import("daisyui")],
 };
