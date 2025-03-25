@@ -48,9 +48,11 @@ import rise from "./assets/wallets/rise.png";
 import robinhood from "./assets/wallets/robinhood.png";
 import runesbridge from "./assets/wallets/runesbridge.png";
 import simplehold from "./assets/wallets/simplehold.png";
+import tangem from "./assets/wallets/tangem.png";
 import torus from "./assets/wallets/torus.png";
 import tribes from "./assets/wallets/tribes.png";
 import trubit from "./assets/wallets/trubit.png";
+import trustwallet from "./assets/wallets/trustwallet.webp";
 import unisat from "./assets/wallets/unisat.png";
 import uniswap from "./assets/wallets/uniswap.jpg";
 import uxuy from "./assets/wallets/uxuy.png";
@@ -555,6 +557,10 @@ export const moreWallets = [
     icon: simplehold,
   },
   {
+    name: "trust",
+    icon: trustwallet,
+  },
+  {
     name: "torus",
     icon: torus,
   },
@@ -565,6 +571,10 @@ export const moreWallets = [
   {
     name: "trubit",
     icon: trubit,
+  },
+  {
+    name: "Trust wallet",
+    icon: trustwallet,
   },
   {
     name: "unisat",
